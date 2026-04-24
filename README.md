@@ -2,6 +2,8 @@
 
 基于 FFmpeg 的 wasm 视频解码示例工程（用于 Web 播放）。
 
+![Web 示例截图](screenshot.png)
+
 ## 目录结构
 
 - `src`：C/C++ 源码（wasm bridge 与解码逻辑）
